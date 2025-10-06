@@ -16,7 +16,7 @@ A comprehensive anime recommendation system built using Natural Language Process
 
 ## 📁 Dataset
 
-The dataset (`anime_recommendation_dataset.csv`) contains **557 anime entries** with the following features:
+The dataset (`anime_recommendation_dataset.csv`) contains **200 anime entries** with the following features:
 - **title**: Name of the anime
 - **synopsis**: Plot description
 - **genres**: Comma-separated list of genres
